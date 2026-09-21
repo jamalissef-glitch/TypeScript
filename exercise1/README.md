@@ -1,0 +1,2 @@
+# TypeScript
+Exercise for TS
